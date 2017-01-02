@@ -1,0 +1,20 @@
+{
+  "name": "ServerClash/php-benchmark",
+  "description": "Simple benchmark for PHP just to generate some load.",
+  "type": "project",
+  "homepage": "https://serverclash.com",
+  "support": {
+    "issues": "https://github.com/ServerClash/php-benchmark/issues"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Przemyslaw Tomaszewski",
+      "email": "hi@bipho.be",
+      "homepage": "http://bipho.be"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  }
+}
