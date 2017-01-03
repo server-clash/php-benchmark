@@ -1,5 +1,5 @@
 {
-  "name": "ServerClash/php-benchmark",
+  "name": "server-clash/php-benchmark",
   "description": "Simple benchmark for PHP just to generate some load.",
   "type": "project",
   "homepage": "https://serverclash.com",
