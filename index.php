@@ -8,7 +8,7 @@ class Benchmark
 
         for ($i = 0; $i < $runCount; $i++) {
             foreach ($functions as $function) {
-				call_user_func_array($function, array($i));
+                call_user_func_array($function, array($i));
             }
         }
     }
