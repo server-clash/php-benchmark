@@ -1,3 +1,3 @@
-# "Hello world" server
+# php-benchmark
 
-Made for benchmarking purposes.
+> Made for benchmarking purposes.
