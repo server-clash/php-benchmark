@@ -4,7 +4,7 @@
   "type": "project",
   "homepage": "https://serverclash.com",
   "support": {
-    "issues": "https://github.com/ServerClash/php-benchmark/issues"
+    "issues": "https://github.com/server-clash/php-benchmark/issues"
   },
   "license": "MIT",
   "authors": [
