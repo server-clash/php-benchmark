@@ -10,8 +10,7 @@
   "authors": [
     {
       "name": "Przemyslaw Tomaszewski",
-      "email": "hi@bipho.be",
-      "homepage": "http://bipho.be"
+      "email": "hi@bipho.be"
     }
   ],
   "require": {
