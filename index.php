@@ -4,7 +4,7 @@ class Benchmark
 {
     public function run($runCount = 2500)
     {
-        $functions = array("abs", "acos", "asin", "atan", "floor", "exp", "sin", "tan", "sqrt");
+        $functions = array("acosh", "asinh", "cos", "log", "log1p", "log10", "sin", "sqrt", "tan");
 
         for ($i = 0; $i < $runCount; $i++) {
             foreach ($functions as $function) {
