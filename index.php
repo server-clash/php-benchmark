@@ -2,7 +2,7 @@
 
 class Benchmark
 {
-    public function run($runCount = 2500)
+    public function run($runCount = 4000)
     {
         $functions = array("acosh", "asinh", "cos", "log", "log1p", "log10", "sin", "sqrt", "tan");
 
