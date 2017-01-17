@@ -1,6 +1,6 @@
 <?php
 
-require_once("src/benchmark.php");
+require_once("src/Benchmark.php");
 
 $benchmark = new Benchmark();
 
